@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aleneri97. Most people call me Neri, but you can call me whenever you want (to collaborate)
+- 👋 Hi, I’m Alex. Most people call me Neri, but you can call me whenever you want (to collaborate)
 - 👀 I'm interested in front end development and UI design
 - 🌱 I’m currently learning backend technologies
 - 💞️ I’m looking forward to collaborate on social impact projects (education, health, politics)
